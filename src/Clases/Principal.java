@@ -6,6 +6,8 @@ public class Principal {
 
         System.out.println("Hola Sistemas Distribuidos");
 
+        System.out.println("Adios sistemas distribuidos");
+
     }
 
 
