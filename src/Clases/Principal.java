@@ -7,7 +7,4 @@ public class Principal {
         System.out.println("Hola Sistemas Distribuidos");
 
     }
-
-
-
 }
